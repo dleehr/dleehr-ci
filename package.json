@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/theWeekNum.git"
+    "url": "git+https://github.com/dleehr/dleehr-ci.git"
   },
   "author": "bdougie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/theWeekNum/issues"
+    "url": "https://github.com/dleehr/dleehr-ci/issues"
   },
-  "homepage": "https://github.com/bdougie/theWeekNum#readme",
+  "homepage": "https://github.com/dleehr/dleehr-ci#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
